@@ -14,10 +14,7 @@
 - 👯 I’m looking to collaborate on any fun open source project
 - ⚡ I love Python <3
 
-<br>
-
 ### Contact
-
 
 [![website](./img/instagram-light.svg)](https://instagram.com/ajnurxo#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ajnurxo#gh-dark-mode-only)
@@ -27,8 +24,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ajnurbogucanin/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ajnurbogucanin/#gh-dark-mode-only)
-
-<br>
 
 ### Skills
 
