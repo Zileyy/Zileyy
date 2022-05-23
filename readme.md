@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-<img alt="gif" src='/img/duck.gif'>
+<img alt="gif" height="300px" width="300px" src='/img/duck.gif'>
 </p>
 
 <br>
