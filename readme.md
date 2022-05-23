@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://giphy.com/embed/PTBVMsYIOB0SBP4MVe" width="480" height="480" frameBorder="0">
+<div class="tenor-gif-embed" data-postid="15826314" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br>
 
