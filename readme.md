@@ -12,14 +12,15 @@
 
 ### Contact
 
+
+[![website](./img/instagram-light.svg)](https://instagram.com/ajnurxo#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ajnurxo#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC6Y5_H4l5f9qqQlKt1RFT7w#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC6Y5_H4l5f9qqQlKt1RFT7w#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ajnurbogucanin/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ajnurbogucanin/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ajnurxo#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ajnurxo#gh-dark-mode-only)
 
 <br>
 
