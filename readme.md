@@ -2,7 +2,7 @@
 
 <br>
 
-<img src='/img/duck.gif'>
+<img align="center" alt="gif" src='/img/duck.gif'>
 
 <br>
 
