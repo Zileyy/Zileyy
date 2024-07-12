@@ -10,17 +10,13 @@
 
 ## Python Dev
 
-- 🌱 I’m currently learning neural network and A.I in general
+- 🌱 I’m currently studying A.I and Data Engineering at IUS
 - 👯 I’m looking to collaborate on any fun open source project
-- ⚡ I love Python <3
 
 ### Contact
 
 [![website](./img/instagram-light.svg)](https://instagram.com/ajnurxo#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/ajnurxo#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC6Y5_H4l5f9qqQlKt1RFT7w#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC6Y5_H4l5f9qqQlKt1RFT7w#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ajnurbogucanin/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ajnurbogucanin/#gh-dark-mode-only)
@@ -37,6 +33,8 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/@icon/devicons@1.8.0-alpha.3/icons/docker.svg" style="padding-right:10px;" />
+
 
 <br>
 
